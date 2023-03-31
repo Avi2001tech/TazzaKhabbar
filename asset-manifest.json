@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TazzaKhabbar/static/css/main.756af292.css",
+    "main.js": "/TazzaKhabbar/static/js/main.ac721cd1.js",
+    "static/js/787.66a4299e.chunk.js": "/TazzaKhabbar/static/js/787.66a4299e.chunk.js",
+    "static/media/loading.gif": "/TazzaKhabbar/static/media/loading.a7176347d682a1a049b3.gif",
+    "index.html": "/TazzaKhabbar/index.html",
+    "main.756af292.css.map": "/TazzaKhabbar/static/css/main.756af292.css.map",
+    "main.ac721cd1.js.map": "/TazzaKhabbar/static/js/main.ac721cd1.js.map",
+    "787.66a4299e.chunk.js.map": "/TazzaKhabbar/static/js/787.66a4299e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.ac721cd1.js"
+  ]
+}
